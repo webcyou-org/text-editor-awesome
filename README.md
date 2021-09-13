@@ -1,6 +1,6 @@
 # Text Editor Awesome
 
-Here is a list of text editors created in various languages.
+> ### Here is a list of text editors created in various languages.
 
 ## Specifications
 
