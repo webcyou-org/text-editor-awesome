@@ -15,3 +15,7 @@ Here is a list of text editors created in various languages.
   - QT
   
 - Go
+
+- JavaScript
+  - Electron
+
