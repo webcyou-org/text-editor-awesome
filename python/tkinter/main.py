@@ -132,8 +132,8 @@ class TextEdit:
   def menuHelpVersion(self):
     s = self.__class__.__name__ + '\n\n'
     s += 'バージョン: 0.1.0\n'
-    s += 'コミット: \n'
-    s += '日付: \n'
+    s += 'コミット: 264c32266442e6b97f3c1934c6bfe8c5ce44ae36\n'
+    s += '日付: 2021-09-12\n'
     s += 'with Python: ' + sys.version
     messagebox.showinfo(self.__class__.__name__, s)
 
