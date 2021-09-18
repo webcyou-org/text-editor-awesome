@@ -20,7 +20,8 @@
 
 - Go
   - Fyne
-  - Lorca 
+  - Lorca
+  - Wails 
 
 - Rust
 
