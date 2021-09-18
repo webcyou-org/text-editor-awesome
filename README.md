@@ -13,7 +13,11 @@
   
 - C++
   - QT
-  
+
+- C#
+  - WinForms
+  - GTK# 
+
 - Go
 
 - JavaScript
