@@ -19,6 +19,10 @@
   - GTK# 
 
 - Go
+  - Fyne
+  - Lorca 
+
+- Rust
 
 - JavaScript
   - Electron
