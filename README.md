@@ -24,6 +24,7 @@
   - Wails 
 
 - Rust
+  - Iced  
 
 - JavaScript
   - Electron
