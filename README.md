@@ -10,6 +10,7 @@
 
 - Python
   - tkinter
+  - Kivy
   
 - C++
   - QT
