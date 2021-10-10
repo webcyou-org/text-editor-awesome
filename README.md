@@ -9,7 +9,7 @@
 ## Language
 
 - Python
-  - tkinter
+  - [tkinter](https://github.com/webcyou-org/text-editor-awesome/tree/master/python/tkinter)
   - Kivy
   
 - C++
