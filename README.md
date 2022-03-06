@@ -19,6 +19,8 @@
   - リリースノート (release notes)
   - バージョン情報 (Version Information)
 
+![text_edit_2](https://user-images.githubusercontent.com/1584153/156918737-94307fa0-a371-4f03-bc67-d0ff4bb40891.png)
+
 
 ## Language
 
