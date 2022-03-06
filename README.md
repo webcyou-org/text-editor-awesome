@@ -29,4 +29,5 @@
 
 - JavaScript
   - Electron
+  - Tauri
 
